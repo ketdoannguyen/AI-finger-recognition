@@ -1,3 +1,3 @@
 # AI-finger-recognition
-Using python and MediaPipe library for finger recognition
+Using python and MediaPipe library for finger recognition.\n
 The program recognizes finger gestures and the game rock-paper-scissors in the file DACS4.ipynb
